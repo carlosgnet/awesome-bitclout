@@ -114,7 +114,6 @@ A curated list of awesome BitClout things.
 * [CloutDigest](https://bitclout.com/u/CloutDigest) — The top BitClout news, three times a week
 * [CloutWire](https://bitclout.com/u/CloutWire/) — BitClout news, new members, and updates.
 
-# Contributing
+## Contributing
 
-Your contributions are welcome! I will keep pull requests open if I'm not sure whether those libraries are awesome.
-
+You're welcome to edit the list. Create a pull request and I'll review the changes with you.
