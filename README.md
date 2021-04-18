@@ -24,6 +24,7 @@ A curated list of awesome BitClout things.
 
 ### Apps
 
+* [BitClout Desktop](https://github.com/BarryMode/bitclout-desktop/releases) — The cross platform BitClout desktop app.
 * [cloutfeed](https://bitclout.com/u/cloutfeed) — Building a mobile app for BitClout
 * [CloutieApp](https://bitclout.com/u/CloutieApp) — the BitClout app for iOS & Mac OS
 
