@@ -20,38 +20,38 @@ A curated list of awesome BitClout things.
 
 ---
 
-# For All
+## For All
 
-## Apps
+### Apps
 
 * [cloutfeed](https://bitclout.com/u/cloutfeed) — Building a mobile app for BitClout
 * [CloutieApp](https://bitclout.com/u/CloutieApp) — the BitClout app for iOS & Mac OS
 
-## Education
+### Education
 
 * [BitCloutU](https://bitclout.com/u/BitCloutU) — Simple explanations of BitClout you can send to friends
 * [bitclouthunt](https://bitclout.com/u/bitclouthunt) — Discover the latest BitClout projects and the makers behind them.
 * [BitCloutWiki](https://bitclout.com/u/BitCloutWiki) — Wiki reference for BitClout
 * [helpbot](https://bitclout.com/u/helpbot) — Bot on how to use BitClout
 
-## Extensions
+### Extensions
 
 * BitClout Plus — Extension to enhance BitClout pages
 * [bitcloutwow](https://bitclout.com/u/bitcloutwow) — Chrome extension for BitClout
 * [cloutifyapp](https://bitclout.com/u/cloutifyapp) — Show Bitclout prices in Twitter
 * [cloutlytics](https://bitclout.com/u/cloutlytics) — Extention, Data, and graphs
 
-## Jobs
+### Jobs
 
 * [BitCloutCareers](https://bitclout.com/u/BitCloutCareers) — Job board for BitClout related jobs
 * [JobClout](https://bitclout.com/u/JobClout) — BitClout job board
 
-## Tools
+### Tools
 
 * Greedclout — Tool to calculate investment needed to increase coin price
 * [prosperclout](https://bitclout.com/u/prosperclout) — The most advanced trade (buy/sell) analysis calculator
 
-## Trading
+### Trading
 
 * [bitswap](https://bitclout.com/u/bitswap) — Buy and Sell your Bitclout for Ethereum
 * [CloutOTC](https://bitclout.com/u/CloutOTC) — P2P BitClout OTC Exchange
@@ -60,12 +60,12 @@ A curated list of awesome BitClout things.
 * [ShopClout](https://bitclout.com/u/ShopClout) — 1st BitClout Marketplace. Swap your items for bitclout coins
 * [wBTCLT](https://bitclout.com/u/wBTCLT) — Wrapped BitClout
 
-## Wallets
+### Wallets
 
 * [cloutwallet](https://bitclout.com/u/cloutwallet) — Mobile Wallet for BitClout
 * [superwallet](https://bitclout.com/u/superwallet) — Open source wallet / Extension
 
-# For Creators
+## For Creators
 
 * [bCloutMe](https://bitclout.com/u/bCloutMe) — Personal investor relation page to attract new investors and keep existing ones up to date
 * [cloutchain](https://bitclout.com/u/cloutchain) — CloutChain is a new way to reward HODLers
@@ -75,13 +75,13 @@ A curated list of awesome BitClout things.
 * [Onlyhub](https://bitclout.com/u/Onlyhub) — #1 OnlyFans Promotion Platform
 * [subclout](https://bitclout.com/u/subclout) — Substack for BitClout -- paid newsletters available to those that own $x of your coin
 
-# For Developers
+## For Developers
 
 * [cloutlookup](https://bitclout.com/u/cloutlookup) — Public BitClout API
 
-# For Investors
+## For Investors
 
-## Alerts
+### Alerts
 
 * [BitCloutDrops](https://bitclout.com/u/BitCloutDrops) — Alerts of top profiles
 * [clouthacks](https://bitclout.com/u/clouthacks) — Profiling the top BitClout users
@@ -90,13 +90,13 @@ A curated list of awesome BitClout things.
 * [ohmyclout](https://bitclout.com/u/ohmyclout) — Real time alerts on Telegram for tracking buys and sells
 * [SeekingBitClout](https://bitclout.com/u/SeekingBitClout) — Research & alerts on undervalued profiles
 
-## Analytics
+### Analytics
 
 * [bitcloutsignal](https://bitclout.com/u/bitcloutsignal) — Portfolio analysis and Telegram alerts
 * [cloutsights](https://bitclout.com/u/cloutsights) — macOS menu bar app to track your favorite creator coins
 * [clouttrack](https://bitclout.com/u/clouttrack) — Analytics and market data
 
-## Data
+### Data
 
 * [bitcloutfollow](https://bitclout.com/u/bitcloutfollow) — Discover prominent BitClout creators
 * [bitcloutinsights](https://bitclout.com/u/bitcloutinsights) — Wallet Analyzer
@@ -105,7 +105,7 @@ A curated list of awesome BitClout things.
 * [cloutgate](https://bitclout.com/u/cloutgate) — Track, analyze and discover creator coins
 * [CloutReviews](https://bitclout.com/u/CloutReviews) — Providing reviews of BitClout users
 
-## News
+### News
 
 * [BitCloutPodcast](https://bitclout.com/u/BitCloutPodcast) — BitClout focused podcast
 * [bitcloutrising](https://bitclout.com/u/bitcloutrising) — Newsletter about BitClout
