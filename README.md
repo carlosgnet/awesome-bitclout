@@ -1,6 +1,12 @@
 # Awesome BitClout [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/barrymode)
 
-A curated list of awesome BitClout things.
+## What is BitClout?
+[BitClout](https://bitclout.com/) is social media on a blockchain. Your favorite creator has a coin you can buy or sell. The price
+goes up as more people buy. You can have your own coin too. [ [Learn More](https://bitclout.com/one_pager.pdf) ]
+
+## Index
+
+Below is a list of BitClout related projects.
 
 - [For All](#for-all)
     - [Apps](#apps)
