@@ -66,6 +66,7 @@ Below is a list of BitClout related projects.
 ### Trading
 
 * [bitswap](https://bitclout.com/u/bitswap) — Buy and Sell your Bitclout for Ethereum
+* [BitWrap](https://bitclout.com/u/BitWrap) — bitswap Wrapper
 * [CloutOTC](https://bitclout.com/u/CloutOTC) — P2P BitClout OTC Exchange
 * [CloutSigma](https://bitclout.com/u/CloutSigma) — Quantitative & Algorithmic driven investments in creators
 * [robinclout](https://bitclout.com/u/robinclout) — Robinhood for BitClout
