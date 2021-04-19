@@ -56,10 +56,12 @@ Below is a list of BitClout related projects.
 ### Other
 
 * [BitCloutOffers](https://bitclout.com/u/bitcloutoffers) — Tracking the Best BitClout Offers
+
 ### Tools
 
 * Greedclout — Tool to calculate investment needed to increase coin price
 * [prosperclout](https://bitclout.com/u/prosperclout) — The most advanced trade (buy/sell) analysis calculator
+* [whenactive](https://bitclout.com/u/whenactive) — Creating a number of tools
 
 ### Trading
 
