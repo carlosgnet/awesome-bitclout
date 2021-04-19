@@ -43,7 +43,7 @@ Below is a list of BitClout related projects.
 
 ### Extensions
 
-* BitClout Plus — Extension to enhance BitClout pages
+* [BitClout Plus](https://github.com/iPaulPro/BitCloutPlus) — Extension to enhance BitClout pages
 * [bitcloutwow](https://bitclout.com/u/bitcloutwow) — Chrome extension for BitClout
 * [cloutifyapp](https://bitclout.com/u/cloutifyapp) — Show Bitclout prices in Twitter
 * [cloutlytics](https://bitclout.com/u/cloutlytics) — Extention, Data, and graphs
