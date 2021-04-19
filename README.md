@@ -53,6 +53,9 @@ Below is a list of BitClout related projects.
 * [BitCloutCareers](https://bitclout.com/u/BitCloutCareers) — Job board for BitClout related jobs
 * [JobClout](https://bitclout.com/u/JobClout) — BitClout job board
 
+### Other
+
+* [BitCloutOffers](https://bitclout.com/u/bitcloutoffers) — Tracking the Best BitClout Offers
 ### Tools
 
 * Greedclout — Tool to calculate investment needed to increase coin price
