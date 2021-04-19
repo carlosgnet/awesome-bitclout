@@ -105,6 +105,7 @@ Below is a list of BitClout related projects.
 
 ### Data
 
+* [BitcloutExpress](https://bitclout.com/u/BitcloutExpress) — Advanced BitClout Tracker & Predictive Data
 * [bitcloutfollow](https://bitclout.com/u/bitcloutfollow) — Discover prominent BitClout creators
 * [bitcloutinsights](https://bitclout.com/u/bitcloutinsights) — Wallet Analyzer
 * [bitcloutpulse](https://bitclout.com/u/bitcloutpulse) — Bloomberg for BitClout
