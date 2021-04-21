@@ -53,15 +53,19 @@ Below is a list of BitClout related projects.
 * [BitCloutCareers](https://bitclout.com/u/BitCloutCareers) — Job board for BitClout related jobs
 * [JobClout](https://bitclout.com/u/JobClout) — BitClout job board
 
-### Other
+### Offers
 
 * [BitCloutOffers](https://bitclout.com/u/bitcloutoffers) — Tracking the Best BitClout Offers
+
+### Social
+
+* [Cloutted](https://bitclout.com/u/Cloutted) — Reddit for Bitclout - Communities, Trends, Custom Feeds, and more.
+* [whenactive](https://bitclout.com/u/whenactive) — Content search across the BitClout global feed - to engage with, share, and comment.
 
 ### Tools
 
 * Greedclout — Tool to calculate investment needed to increase coin price
 * [prosperclout](https://bitclout.com/u/prosperclout) — The most advanced trade (buy/sell) analysis calculator
-* [whenactive](https://bitclout.com/u/whenactive) — Creating a number of tools
 
 ### Trading
 
