@@ -114,6 +114,7 @@ Below is a list of BitClout related projects.
 * [bitcloutsignal](https://bitclout.com/u/bitcloutsignal) — Portfolio analysis and Telegram alerts
 * [cloutsights](https://bitclout.com/u/cloutsights) — macOS menu bar app to track your favorite creator coins
 * [clouttrack](https://bitclout.com/u/clouttrack) — Analytics and market data
+* [clounconsole](https://bitclout.com/u/cloutconsole) — Analyze creator's engagement by posts, portfolio, and buy/sell transactions.
 
 ### Data
 
