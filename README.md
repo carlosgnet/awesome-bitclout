@@ -89,7 +89,6 @@ Below is a list of BitClout related projects.
 * [cloutchain](https://bitclout.com/u/cloutchain) — CloutChain is a new way to reward HODLers
 * [cloutmembers](https://bitclout.com/u/cloutmembers) — Content platform for creators and fans
 * [cloutpoll](https://bitclout.com/u/cloutpoll) — Build engagement with your BitClout audience through Polls
-* [cloutprint](https://bitclout.com/u/cloutprint) — Create newsletters and reports for BitClout community
 * [moonbounce](https://bitclout.com/u/moonbounce) — Reward your biggest supporters w/ exclusive content, benefits, and experiences
 * [Onlyhub](https://bitclout.com/u/Onlyhub) — #1 OnlyFans Promotion Platform
 * [subclout](https://bitclout.com/u/subclout) — Substack for BitClout -- paid newsletters available to those that own $x of your coin
