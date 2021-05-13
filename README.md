@@ -142,4 +142,4 @@ You're welcome to edit the list. Create a pull request and I'll review the chang
 
 ## Credits
 
-This list was based on [this spreadsheet](https://docs.google.com/spreadsheets/d/1iEAZUoCavoj91Zc3OtESwVmTJ1th8ULMM6GeV9oLm1w) compiled by [Chris McCann](https://bitclout.com/u/mccannatron).
+This list was based on [this spreadsheet](https://docs.google.com/spreadsheets/d/1iEAZUoCavoj91Zc3OtESwVmTJ1th8ULMM6GeV9oLm1w) compiled by [Chris McCann](https://bitclout.com/u/mccannatron), which has been deprecated in favor [BitHunt](https://www.bitclouthunt.com/).
