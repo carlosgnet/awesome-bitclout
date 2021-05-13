@@ -96,7 +96,6 @@ Below is a list of BitClout related projects.
 
 ## For Developers
 
-* [BitClout API](https://www.bitcloutapi.net/) — Unofficial API that lets you fetch all sorts of info about Bitclout users
 * [cloutlookup](https://bitclout.com/u/cloutlookup) — Public BitClout API
 
 ## For Investors
