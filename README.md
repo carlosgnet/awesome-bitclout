@@ -96,6 +96,7 @@ Below is a list of BitClout related projects.
 ## For Developers
 
 * [cloutlookup](https://bitclout.com/u/cloutlookup) — Public BitClout API
+* [clout-cli](https://github.com/andrewarrow/clout-cli) — Command Line Interface (CLI) Clout Client Read/Write Messages
 
 ## For Investors
 
